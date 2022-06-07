@@ -1,0 +1,6 @@
+background-color:hsla(122,100%,80%,0);
+background-image:
+radial-gradient(at 20% 94%, hsla(353,89%,73%,1) 0px, transparent 50%),
+radial-gradient(at 94% 9%, hsla(337,61%,64%,1) 0px, transparent 50%),
+radial-gradient(at 8% 38%, hsla(359,63%,76%,0) 0px, transparent 50%);
+https://app.tinyman.org/#/swap?asset_in=0&asset_out=515424632
