@@ -12,6 +12,11 @@ function Banner() {
                   <div> 
                   <a className='btn mt-5 py-2 inline-block p-5 text-lg md:text-xl white' href='/'>Download Whitepaper</a>
                   </div>
+
+                  <div> 
+                  <a className='btn mt-5 py-2 inline-block p-5 text-lg md:text-xl white' href='https://app.nf.domains/name/algoinutoken.algo?view=segments'>Buy a domain</a>
+                  </div>
+                  
                 </div>
                 
                 <div className='md:w-[30%] mx-auto mt-5 w-[80%]'>

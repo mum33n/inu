@@ -4,7 +4,7 @@ Chart.register(Tooltip, Title, ArcElement);
 
 export default function Tokenomics() {
     const state = {
-        labels: ['Token Supply (1 year locked)', 'Liquidity', 'Marketing and Growth', 'Staking', 'Academy and Charity', 'Core Team', 'Airdrop', 'Future airdrop for loyal holders'],
+        labels: ['Token Supply (1 year burn)', 'Liquidity', 'Marketing and Growth', 'Staking', 'Academy and Charity', 'Core Team', 'Airdrop', 'Future airdrop for loyal holders'],
         datasets: [
           {
             label: 'Rainfall',
